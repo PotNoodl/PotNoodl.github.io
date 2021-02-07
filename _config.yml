@@ -51,7 +51,8 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 , "docs/tests/",
 fonts.md,
 letterbg.md,
-spritesheets.md
+spritesheets.md,
+RPMLM.md
 ]
 
 back_to_top: true
