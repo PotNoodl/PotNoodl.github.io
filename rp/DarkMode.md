@@ -1,3 +1,10 @@
+---
+title: Dark Theme Sprite Pack
+parent: spritepacks
+has_children: false
+nav_order: 7
+---
+
 ![Dark Mode](https://media.discordapp.net/attachments/703273063881375864/703436987192836116/dark_theme_banner.png)
 *For all of you dark theme lovers out there.*
 
