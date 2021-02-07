@@ -1,10 +1,10 @@
-{% include analytics.html %}
-
 ---
 title: Home
 has_children: False
 nav_order: 1
 ---
+
+{% include analytics.html %}
 
 ![Image](../assets/images/logo.png)
 
