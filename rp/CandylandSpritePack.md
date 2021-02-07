@@ -5,6 +5,8 @@ has_children: false
 nav_order: 4
 ---
 
+{% include analytics.html %}
+
 ## Candyland Sprite Pack
 *Sweet Treats and more, anything that you're looking for*
 
