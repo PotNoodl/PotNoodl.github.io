@@ -1,6 +1,6 @@
 ---
-title: Test
-has_children: true
+title: FAQs
+has_children: false
 nav_order: 4
 ---
 
