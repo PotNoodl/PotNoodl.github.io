@@ -1,2 +1,2 @@
 # Hi, You are in the wrong place, sorry
-to access the site [click here](https://potnoodl.github.io/)
+to access the site [click here](https://potnoodl.github.io/homepage.html)
