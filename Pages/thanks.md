@@ -1,7 +1,7 @@
 ---
 title: Special Thanks
 has_children: false
-nav_order: 9
+nav_order: 5
 ---
 
 {% include analytics.html %}
