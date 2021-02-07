@@ -1,3 +1,10 @@
+---
+title: Christmas Sprite Pack
+parent: spritepacks
+has_children: false
+nav_order: 5
+---
+
 ## Christmas Pack
 *Celebrate Christmas EVERYWHERE. You can’t escape it. Embrace it. Or else*
 
