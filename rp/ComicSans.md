@@ -1,6 +1,6 @@
 ---
 title: Comic Sans Font Pack
-parent: spritepacks
+parent: Sprite Packs
 has_children: false
 nav_order: 6
 ---
