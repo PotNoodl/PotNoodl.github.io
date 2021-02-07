@@ -9,9 +9,3 @@ nav_order: 6
 ## Announcements
 
 
-![Timeline](../assets/images/timelinetemplate.svg)
-![Timeline](../assets/images/timelinetemplate.svg)
-![Timeline](../assets/images/timelinetemplate.svg)
-![Timeline](../assets/images/timelinetemplate.svg)
-![Timeline](../assets/images/timelinetemplate.svg)
-![Timeline](../assets/images/timelinetemplate.svg)
