@@ -4,6 +4,8 @@ has_children: true
 nav_order: 2
 ---
 
+{% include analytics.html %}
+
 # Sprite Pack List
 
 **Do you want to make your very own pack?** Read [the FAQ](FAQ)!
