@@ -1,5 +1,14 @@
+---
+title: Comic Sans Font Pack
+parent: spritepacks
+has_children: false
+nav_order: 6
+---
+
 ![Comic Sans](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Comic_Sans_font.svg/2000px-Comic_Sans_font.svg.png)
 *oh no*
+
+## THIS PACK IS NOW USELESS, DO NOT USE IT
 
 ## Comic Sans Pack
 
