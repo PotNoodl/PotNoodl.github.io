@@ -5,6 +5,8 @@ has_children: false
 nav_order: 8
 ---
 
+{% include analytics.html %}
+
 ## Flaming Pack
 *AHHHHHH, It's All Burning*
 
