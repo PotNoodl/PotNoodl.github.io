@@ -5,6 +5,8 @@ has_children: false
 nav_order: 18
 ---
 
+{% include analytics.html %}
+
 ![Sand Castle](https://i.imgur.com/ljkftWO.png)
 *agh, it got destroyed again*
 
