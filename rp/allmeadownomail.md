@@ -5,6 +5,8 @@ has_children: false
 nav_order: 21
 ---
 
+{% include analytics.html %}
+
 ## All Meadow No Mail Sprite Pack
 wanted the satisfaction of birds flying around but not the mail system, well now you can
 
