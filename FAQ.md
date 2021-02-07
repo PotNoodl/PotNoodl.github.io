@@ -1,3 +1,9 @@
+---
+title: Test
+has_children: true
+nav_order: 4
+---
+
 # FAQs
 
 ## I want to create my own Resource Pack
