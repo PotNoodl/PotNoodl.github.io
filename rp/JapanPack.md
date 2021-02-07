@@ -5,6 +5,8 @@ has_children: false
 nav_order: 11
 ---
 
+{% include analytics.html %}
+
 ## Japanese Sprite Pack
 
 ![Image](https://cdn.discordapp.com/attachments/703363696495427656/704779127772938299/unknown.png)
