@@ -1,4 +1,11 @@
-## Mario SpritePack
+---
+title: Mario Sprite Pack
+parent: spritepacks
+has_children: false
+nav_order: 12
+---
+
+## Mario Sprite Pack
 *It's a me Mario*
 
 **Author:** *CallMeBob*
