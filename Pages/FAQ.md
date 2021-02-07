@@ -4,6 +4,8 @@ has_children: false
 nav_order: 7
 ---
 
+{% include analytics.html %}
+
 # FAQs
 
 ## I want to create my own Resource Pack
