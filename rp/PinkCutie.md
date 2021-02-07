@@ -5,6 +5,8 @@ has_children: false
 nav_order: 17
 ---
 
+{% include analytics.html %}
+
 # Pink Cutie Pack
 *PINK!*
 
