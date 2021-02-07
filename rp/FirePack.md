@@ -1,3 +1,10 @@
+---
+title: Flaming Sprite Pack
+parent: spritepacks
+has_children: false
+nav_order: 8
+---
+
 ## Flaming Pack
 *AHHHHHH, It's All Burning*
 
