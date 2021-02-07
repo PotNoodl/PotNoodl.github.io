@@ -4,6 +4,8 @@ has_children: false
 nav_order: 6
 ---
 
+{% include analytics.html %}
+
 # The MeadowLand Guidelines
 ## Resource Pack Guidelines
 1. Do not submit packs without transparent backgrounds
