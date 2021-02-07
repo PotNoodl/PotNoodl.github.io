@@ -1,3 +1,10 @@
+---
+title: 1-Bit Spritepack
+parent: spritepacks
+has_children: false
+nav_order: 1
+---
+
 # 1-Bit Spritepack
 *Make your meadow a little bit more retro*
 
