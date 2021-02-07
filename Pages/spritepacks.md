@@ -13,6 +13,6 @@ White Squares for being low quality (26/07/2020, 20:31 CEST)
 
 ## Packs currently available
 
-### [Packs containing fonts](fonts.md)
-### [Packs containing letter backgrounds](letterbg.md)
-### [Packs containing sprite sheets](spritesheets.md)
+### [Packs containing fonts](../rp/index/fonts.md)
+### [Packs containing letter backgrounds](../rp/index/letterbg.md)
+### [Packs containing sprite sheets](../rp/index/spritesheets.md)
