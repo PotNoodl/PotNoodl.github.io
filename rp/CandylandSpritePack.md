@@ -1,4 +1,11 @@
-## Candyland SpritePack
+---
+title: Candyland Sprite Pack
+parent: spritepacks
+has_children: false
+nav_order: 4
+---
+
+## Candyland Sprite Pack
 *Sweet Treats and more, anything that you're looking for*
 
 **Author:** *Pot Noodle*
