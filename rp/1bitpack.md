@@ -1,6 +1,6 @@
 ---
 title: 1-Bit Spritepack
-parent: spritepacks
+parent: Sprite Packs
 has_children: false
 nav_order: 1
 ---
