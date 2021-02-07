@@ -5,6 +5,8 @@ has_children: false
 nav_order: 9
 ---
 
+{% include analytics.html %}
+
 ## GameBoy Pack
 *This pack is only playable on GameBoy® Color*
 
