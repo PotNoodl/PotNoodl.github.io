@@ -1,3 +1,9 @@
+---
+title: Home
+has_children: False
+nav_order: 1
+---
+
 ![Image](https://cdn.discordapp.com/attachments/702937727754043473/703296452004282538/BCw65lm_50x.png)
 
 Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project.
