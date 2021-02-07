@@ -1,4 +1,11 @@
-## Spooky Pack
+---
+title: Spooky Sprite Pack
+parent: spritepacks
+has_children: false
+nav_order: 19
+---
+
+## Spooky Sprite Pack
 *Woowooowooowwwooooo, very spoopy*
 
 **Author:** *CallMeBob*
