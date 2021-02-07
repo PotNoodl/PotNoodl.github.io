@@ -12,7 +12,11 @@ collections:
 aux_links:
   "Desktop Meadow on Itch.io":
     - "https://samperson.itch.io/meadow"    
-    
+   
+   
+ga_tracking: G-WVKVP7N94Q
+ga_tracking_anonymize_ip: true
+
 
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
