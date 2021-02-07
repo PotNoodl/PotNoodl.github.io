@@ -5,6 +5,7 @@ remote_theme: pmarsceill/just-the-docs
 collections:
   docs:
     permalink: "/Pages/"
+    permalink: "/rp/"
     output: true
     
     
