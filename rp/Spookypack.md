@@ -5,6 +5,8 @@ has_children: false
 nav_order: 19
 ---
 
+{% include analytics.html %}
+
 ## Spooky Sprite Pack
 *Woowooowooowwwooooo, very spoopy*
 
