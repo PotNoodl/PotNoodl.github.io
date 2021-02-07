@@ -1,7 +1,14 @@
+---
+title: Sandcastle Sprite Pack
+parent: spritepacks
+has_children: false
+nav_order: 18
+---
+
 ![Sand Castle](https://i.imgur.com/ljkftWO.png)
 *agh, it got destroyed again*
 
-## Sand Castle Sprite Pack
+## Sandcastle Sprite Pack
 
 **Author:** *Pot Noodle*
 
