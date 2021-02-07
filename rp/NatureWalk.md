@@ -1,4 +1,11 @@
-## Nature Walk
+---
+title: Nature Walk Sprite Pack
+parent: spritepacks
+has_children: false
+nav_order: 15
+---
+
+## Nature Walk Sprite Pack
 *Give your meadow an added touch of realism*
 
 **Author:** *Firefairy*
