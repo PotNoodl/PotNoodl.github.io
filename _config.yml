@@ -1,5 +1,6 @@
 title: "Meadowland"
 remote_theme: pmarsceill/just-the-docs
+logo: "/assets/images/logo.png"
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: nil
