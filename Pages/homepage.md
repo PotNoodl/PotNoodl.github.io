@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="../assets/images/birb.ico">
 ---
 title: Home
 has_children: False
