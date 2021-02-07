@@ -2,13 +2,3 @@ title: "Meadowland"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: dark
 search_enabled: true
-
-# Back to top link
-back_to_top: true
-back_to_top_text: "Back to top"
-
-footer_content: "We Do Not own the original program (Desktop Meadow) that was made by Samperson <a href=\"https://samperson.itch.io/meadow">This link will take you to the itch.io page</a>"
-
-# Footer last edited timestamp
-last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
-last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
