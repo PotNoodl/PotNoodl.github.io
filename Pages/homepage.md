@@ -1,3 +1,5 @@
+{% include analytics.html %}
+
 ---
 title: Home
 has_children: False
