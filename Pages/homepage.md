@@ -11,7 +11,7 @@ nav_order: 1
 Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project.
 Thanks to Vuk, GamerBoi153, Pot Noodle, Elly 2.0, and Moonaliss for helping and making MeadowLand!
 
-[![Mod Requests](https://img.shields.io/github/issues/UnofficialSamHub/MeadowLand?label=Mod%20Requests%2FIssues)](https://github.com/UnofficialSamHub/MeadowLand/issues)
+[![Mod Requests](https://img.shields.io/github/issues/UnofficialSamHub/MeadowLand?label=Mod%20Requests%2FIssues)](https://github.com/UnofficialSamHub/MeadowLand/issues)https://img.shields.io/aur/last-modified/PotNoodl.github.io?style=plastic
 
 ## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
