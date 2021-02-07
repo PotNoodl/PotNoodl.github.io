@@ -1,6 +1,6 @@
 ---
 title: Meadow City Sprite Pack
-parent: spritepacks
+parent: Sprite Packs
 has_children: false
 nav_order: 13
 ---
