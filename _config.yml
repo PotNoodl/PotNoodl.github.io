@@ -8,7 +8,7 @@ collections:
     output: true
 
 baseurl: "/Pages"
-url: "https://potnoodl.github.io/"
+url: "https://potnoodl.github.io/Pages/homepage.md"
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
 color_scheme: nil
