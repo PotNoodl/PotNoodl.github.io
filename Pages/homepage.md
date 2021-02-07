@@ -16,6 +16,7 @@ Thanks to Vuk, GamerBoi153, Pot Noodle, Elly 2.0, and Moonaliss for helping and 
 ![Mod Requests](https://img.shields.io/github/issues/UnofficialSamHub/MeadowLand?label=Mod%20Requests%2FIssues)
 ![Contributors](https://img.shields.io/github/contributors/PotNoodl/PotNoodl.github.io)
 ![Comits](https://img.shields.io/github/commit-activity/w/PotNoodl/PotNoodl.github.io)
+![Discord](https://img.shields.io/discord/642496438869295171?color=blue&label=Discord&logo=Discord)
 
 ## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
