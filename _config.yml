@@ -1,7 +1,7 @@
-title: "Remote theme example"
+title: "Meadowland"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: light
-search_enabled: false
+search_enabled: true
 
 # Back to top link
 back_to_top: true
