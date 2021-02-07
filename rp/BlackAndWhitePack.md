@@ -5,6 +5,8 @@ has_children: false
 nav_order: 3
 ---
 
+{% include analytics.html %}
+
 ## Black and White Pack
 *I think the mailbird is a bit sad today.*
 
