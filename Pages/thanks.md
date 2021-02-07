@@ -4,6 +4,8 @@ has_children: false
 nav_order: 9
 ---
 
+{% include analytics.html %}
+
 ## Special Thanks
 
 Thank you to the folloing people for without them the meadowland would not exist
