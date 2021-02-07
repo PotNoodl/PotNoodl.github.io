@@ -4,7 +4,7 @@ has_children: False
 nav_order: 1
 ---
 
-![Image](assets/images/logo.png)
+![Image](../assets/images/logo.png)
 
 Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project.
 Thanks to Vuk, GamerBoi153, Pot Noodle, Elly 2.0, and Moonaliss for helping and making MeadowLand!
