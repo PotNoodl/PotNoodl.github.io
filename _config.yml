@@ -1,6 +1,6 @@
 title: "Meadowland"
 remote_theme: pmarsceill/just-the-docs
-logo: "/assets/images/logo.png"
+##logo: "/assets/images/logo.png"
 
 collections:
   docs:
