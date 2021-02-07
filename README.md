@@ -1,41 +1,31 @@
-## Welcome to GitHub Pages
+![Image](https://cdn.discordapp.com/attachments/702937727754043473/703296452004282538/BCw65lm_50x.png)
 
-🚀 🐼
+Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project.
+Thanks to Vuk, GamerBoi153, Pot Noodle, Elly 2.0, and Moonaliss for helping and making MeadowLand!
 
-yes
+[![Mod Requests](https://img.shields.io/github/issues/UnofficialSamHub/MeadowLand?label=Mod%20Requests%2FIssues)](https://github.com/UnofficialSamHub/MeadowLand/issues)
 
-You can use the [editor on GitHub](https://github.com/pmarsceill/test-jtd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Packs have been migrated
+If you notice any issues such as broken links please join the discord server below and let us know, it will be much appreciated 
 
-### Markdown
+## [Join Our Discord](https://discord.gg/W4kTbaV)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What can I add to Meadow Land?
+At the current point in time you can create custom spritesheets (to the same scale at the moment), custom fonts as well as custom letter backgrounds, all of these are accepted (within reason)
 
-```markdown
-Syntax highlighted code block
+No decompiling and making actual mods for now please!
 
-# Header 1
-## Header 2
-### Header 3
+## Records!
+GamerBoi153 was the first person to make a pack!
 
-- Bulleted
-- List
+Pot Noodle was the first person to make a pack WORK! *clap clap clap!*
 
-1. Numbered
-2. List
+Pot Noodle Migrated all the links over from the previous pack system
 
-**Bold** and _Italic_ and `Code` text
+MeadowLand has 280+ commits!
 
-[Link](url) and ![Image](src)
-```
+## FAQs
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pmarsceill/test-jtd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to know how to make a Resource Pack of your own? Find out how to do that and more on [our FAQ page](FAQ.md)!
