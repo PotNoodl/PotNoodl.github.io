@@ -8,11 +8,14 @@ nav_order: 1
 
 ![Image](../assets/images/logo.png)
 
+![meadowlandbadge](https://img.shields.io/badge/Meadowland-green)
+
 Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project.
 Thanks to Vuk, GamerBoi153, Pot Noodle, Elly 2.0, and Moonaliss for helping and making MeadowLand!
 
 ![Mod Requests](https://img.shields.io/github/issues/UnofficialSamHub/MeadowLand?label=Mod%20Requests%2FIssues)
 ![Contributors](https://img.shields.io/github/contributors/PotNoodl/PotNoodl.github.io)
+![Comits](https://img.shields.io/github/commit-activity/w/PotNoodl/PotNoodl.github.io)
 
 ## [View Fonts, Resource Packs, And Sprite Packs Here](rp/index/INDEX.md)
 
