@@ -5,6 +5,8 @@ has_children: false
 nav_order: 5
 ---
 
+{% include analytics.html %}
+
 ## Christmas Pack
 *Celebrate Christmas EVERYWHERE. You can’t escape it. Embrace it. Or else*
 
