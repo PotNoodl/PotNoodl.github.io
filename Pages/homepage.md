@@ -10,7 +10,7 @@ nav_order: 1
 
 ![meadowlandbadge](https://img.shields.io/badge/Meadowland-green)
 
-Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project.
+Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub project. \n
 Go to the [Special Thanks Page](thanks.md) to see a list of everyone who has contributed to the meadow
 
 ![Mod Requests](https://img.shields.io/github/issues/UnofficialSamHub/MeadowLand?label=Mod%20Requests%2FIssues)
