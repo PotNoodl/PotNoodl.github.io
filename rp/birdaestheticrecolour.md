@@ -1,3 +1,10 @@
+---
+title: Bird Aesthetic Recolour
+parent: spritepacks
+has_children: false
+nav_order: 22
+---
+
 ## Bird Aesthetic Recolour
 
 **Author:** *Dashfox27(Fox27)*
