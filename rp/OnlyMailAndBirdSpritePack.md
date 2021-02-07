@@ -1,6 +1,6 @@
 ---
 title: Only Mail And Dilivery Bird Sprite Pack
-parent: spritepacks
+parent: Sprite Packs
 has_children: false
 nav_order: 16
 ---
