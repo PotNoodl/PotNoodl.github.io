@@ -1,3 +1,9 @@
+---
+title: Test
+has_children: true
+nav_order: 3
+---
+
 # The MeadowLand Guidelines
 ## Resource Pack Guidelines
 1. Do not submit packs without transparent backgrounds
