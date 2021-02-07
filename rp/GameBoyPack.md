@@ -1,3 +1,10 @@
+---
+title: Gameboy Sprite Pack
+parent: spritepacks
+has_children: false
+nav_order: 9
+---
+
 ## GameBoy Pack
 *This pack is only playable on GameBoy® Color*
 
