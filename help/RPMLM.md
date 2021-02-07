@@ -1,3 +1,10 @@
+---
+layout: default
+title: Page not found
+nav_exclude: true
+search_exclude: true
+---
+
 # How to make a Resource Pack with MLM
 
 1. Prepare the files (sprites, "Mail In" background, font) as shown in [the FAQ](../FAQ.md).
