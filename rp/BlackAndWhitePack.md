@@ -1,3 +1,10 @@
+---
+title: Black and White Pack
+parent: spritepacks
+has_children: false
+nav_order: 3
+---
+
 ## Black and White Pack
 *I think the mailbird is a bit sad today.*
 
