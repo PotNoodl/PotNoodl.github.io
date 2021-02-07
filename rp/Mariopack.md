@@ -5,6 +5,8 @@ has_children: false
 nav_order: 12
 ---
 
+{% include analytics.html %}
+
 ## Mario Sprite Pack
 *It's a me Mario*
 
