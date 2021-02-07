@@ -48,7 +48,10 @@ heading_anchors: true
 
 #exclude files from menu bar matching the following
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
-, "docs/tests/"
+, "docs/tests/",
+fonts.md,
+letterbg.md,
+spritesheets.md
 ]
 
 back_to_top: true
