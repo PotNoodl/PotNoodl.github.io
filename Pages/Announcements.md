@@ -9,4 +9,8 @@ nav_order: 10
 ## Announcements
 
 
-![Timeline](../assets/images/timelinetemplate.svg)![Timeline](../assets/images/timelinetemplate.svg)![Timeline](../assets/images/timelinetemplate.svg)![Timeline](../assets/images/timelinetemplate.svg)![Timeline](../assets/images/timelinetemplate.svg)
+![Timeline](../assets/images/timelinetemplate.svg)
+![Timeline](../assets/images/timelinetemplate.svg)
+![Timeline](../assets/images/timelinetemplate.svg)
+![Timeline](../assets/images/timelinetemplate.svg)
+![Timeline](../assets/images/timelinetemplate.svg)
