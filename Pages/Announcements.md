@@ -7,3 +7,6 @@ nav_order: 10
 {% include analytics.html %}
 
 ## Announcements
+
+
+![Timeline](../assets/images/timelinetemplate.svg)
