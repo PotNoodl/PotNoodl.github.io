@@ -1,3 +1,10 @@
+---
+title: Winter Sprite Pack
+parent: spritepacks
+has_children: false
+nav_order: 20
+---
+
 # Winter Sprite Pack
 *Pretty cold in here.*
 
