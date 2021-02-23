@@ -8,8 +8,4 @@ nav_order: 8
 
 ## Changelog
 
-![changelog](../assets/images/changelogtimeline.svg)
-![changelog](../assets/images/changelogtimeline.svg)
-![changelog](../assets/images/changelogtimeline.svg)
-![changelog](../assets/images/changelogtimeline.svg)
-![changelog](../assets/images/changelogtimeline.svg)
+* Shit happened
