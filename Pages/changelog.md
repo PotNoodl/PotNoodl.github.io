@@ -11,7 +11,7 @@ see [this page](../Pages/badges.md) for a more in depth explanation of what each
 
 |  Action  |  Section Affected  |
 |:-:|:-:|
-|  ![Page](https://img.shields.io/badge/-Page-yellow)![Modified](https://img.shields.io/badge/-Modified-orange)  |  Github.io page was redesigned, 23/Feb/2021  |
+|  ![Page](https://img.shields.io/badge/-Page-yellow)![Modified](https://img.shields.io/badge/-Modified-orange)  |  Github.io redisign released, 23/Feb/2021  |
 |    |    |
 |    |    |
 |    |    |
