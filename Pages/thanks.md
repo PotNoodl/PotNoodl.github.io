@@ -6,7 +6,7 @@ nav_order: 5
 
 {% include analytics.html %}
 
-## Special Thanks
+## Special Thanks ![birb](../assets/images/Birb.png)
 
 Thank you to the folloing people for without them the meadowland would not exist
 
