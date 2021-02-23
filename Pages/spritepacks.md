@@ -10,11 +10,7 @@ nav_order: 2
 
 **Do you want to make your very own pack?** Read [the FAQ](FAQ)!
 
-## Packs recently taken down
-White Squares for being low quality (26/07/2020, 20:31 CEST)
+## Take a look at [this](../Pages/changelog.md) page to view any updates made to the packs submitted
 
 ## Packs currently available
 
-### [Packs containing fonts](../rp/index/fonts.md)
-### [Packs containing letter backgrounds](../rp/index/letterbg.md)
-### [Packs containing sprite sheets](../rp/index/spritesheets.md)
