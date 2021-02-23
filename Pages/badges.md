@@ -6,7 +6,7 @@
 
 ![Page](https://img.shields.io/badge/-Page-yellow)           - The github.io page has been changed in some way
 
-\pagebreak
+<br/>
 
 ![Removed](https://img.shields.io/badge/-Removed-red)        - Something has been removed from the meadowland
 
