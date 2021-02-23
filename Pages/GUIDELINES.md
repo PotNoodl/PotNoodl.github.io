@@ -1,5 +1,5 @@
 ---
-title: Guidelines
+title: Submission Guidelines
 has_children: false
 nav_order: 3
 ---
