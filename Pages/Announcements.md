@@ -6,6 +6,6 @@ nav_order: 6
 
 {% include analytics.html %}
 
-## Announcements
+## Announcements ![birb](../assets/images/Birb.png)
 
 
