@@ -6,7 +6,7 @@ nav_order: 4
 
 {% include analytics.html %}
 
-# FAQs
+# FAQs ![birb](../assets/images/Birb.png)
 
 ## I want to create my own Resource Pack
 
