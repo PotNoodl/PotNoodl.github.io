@@ -33,7 +33,7 @@ Currently you can submit the following to the meadow:
 * Received letter background
 
 Please view the [Submission Guidelines](../Pages/GUIDELINES.md) before creating a pull request
-, If you do not know how to submit a spritepack then you can ping either `Pot Noodle#0805` or `Vukky#1550` on the [support server](discord.gg/xZFRmPT) and they will submit it for you
+, If you do not know how to submit a spritepack then you can ask on the [support server](discord.gg/xZFRmPT) and someone will submit it for you
 
 The Creator of the desktop meadow has also kindly asked that you do not decompile the meadow, thanks
 
