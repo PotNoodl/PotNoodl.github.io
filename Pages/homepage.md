@@ -19,7 +19,7 @@ Go to the [Special Thanks Page](thanks.md) to see a list of everyone who has con
 ![Discord](https://img.shields.io/discord/642496438869295171?color=blue&label=Discord&logo=Discord)
 
 
-## [View Fonts, Resource Packs, And Sprite Packs Here](../rp/index/INDEX.md)
+## [View Fonts, Resource Packs, And Sprite Packs Here](../Pages/spritepacks.md)
 
 ## Welcome to the redesign
 hopefully you should be able to find your way around, use the nav. bar on the left hand side of the page
@@ -30,9 +30,15 @@ If you notice any issues such as broken links please join the discord server bel
 ## [Join The Discord Support Server Here](discord.gg/xZFRmPT)
 
 ## What can I add to Meadow Land?
-At the current point in time you can create custom spritesheets (to the same scale at the moment), custom fonts as well as custom letter backgrounds, all of these are accepted (within reason)
+Currently you can submit the following to the meadow:
+* Spritesheets
+* Custom Fonts
+* Received letter background
 
-No decompiling and making actual mods for now please!
+Please view the [Submission Guidelines](../Pages/GUIDELINES.md) before creating a pull request
+, If you do not know how to submit a spritepack then you can ping either `Pot Noodle#0805` or `Vukky#1550` on the [support server](discord.gg/xZFRmPT) and they will submit it for you
+
+The Creator of the desktop meadow has also kindly asked that you do not decompile the meadow, thanks
 
 ## FAQs
 
