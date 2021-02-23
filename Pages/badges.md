@@ -1,6 +1,6 @@
 {% include analytics.html %}
 
-# Badge Details
+# Badge Details ![birb](../assets/images/Birb.png)
 
 ![Spritepack](https://img.shields.io/badge/-Spritepack-blue) - A Spritepack has been affected, look at the table to see what has been changed
 
