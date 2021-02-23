@@ -21,6 +21,9 @@ Go to the [Special Thanks Page](thanks.md) to see a list of everyone who has con
 
 ## [View Fonts, Resource Packs, And Sprite Packs Here](../rp/index/INDEX.md)
 
+## Welcome to the redesign
+hopefully you should be able to find your way around, use the nav. bar on the left hand side of the page
+
 ## Packs have been migrated
 If you notice any issues such as broken links please join the discord server below and let us know, it will be much appreciated 
 
