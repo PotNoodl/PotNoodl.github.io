@@ -14,8 +14,8 @@ Modding hub for the Desktop Meadow, delivered to you by the SamHub/ResourceHub p
 Go to the [Special Thanks Page](thanks.md) to see a list of everyone who has contributed to the meadow
 
 ![Mod Requests](https://img.shields.io/github/issues/UnofficialSamHub/MeadowLand?label=Mod%20Requests%2FIssues)
-![Contributors](https://img.shields.io/github/contributors/PotNoodl/PotNoodl.github.io)
-![Comits](https://img.shields.io/github/commit-activity/w/PotNoodl/PotNoodl.github.io)
+![Contributors](https://img.shields.io/github/contributors/UnofficialSamHub/MeadowLand)
+![Comits](https://img.shields.io/github/commit-activity/w/UnofficialSamHub/MeadowLand)
 ![Discord](https://img.shields.io/discord/642496438869295171?color=blue&label=Discord&logo=Discord)
 
 
