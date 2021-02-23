@@ -6,7 +6,7 @@ nav_order: 8
 
 {% include analytics.html %}
 
-## Changelog
+## Changelog ![birb](../assets/images/Birb.png)
 see [this page](../Pages/badges.md) for a more in depth explanation of what each of the badges mean
 
 |  Action  |  Section Affected  |
