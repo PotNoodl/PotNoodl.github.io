@@ -6,7 +6,7 @@ nav_order: 7
 
 {% include analytics.html %}
 
-## Records
+## Records ![birb](../assets/images/Birb.png)
 
 ![Records](../assets/images/records/1.svg)
 ![Records](../assets/images/records/2.svg)
