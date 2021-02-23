@@ -6,7 +6,7 @@ nav_order: 2
 
 {% include analytics.html %}
 
-# Sprite Pack List
+# Sprite Pack List ![birb](../assets/images/Birb.png)
 
 **Do you want to make your very own pack?** Read [the FAQs](../Pages/FAQ.md)!
 
