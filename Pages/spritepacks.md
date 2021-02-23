@@ -8,7 +8,7 @@ nav_order: 2
 
 # Sprite Pack List
 
-**Do you want to make your very own pack?** Read [the FAQ](FAQ)!
+**Do you want to make your very own pack?** Read [the FAQs](../Pages/FAQ.md)!
 
 ## Take a look at [this](../Pages/changelog.md) page to view any updates made to the packs submitted
 
