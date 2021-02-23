@@ -6,7 +6,7 @@ nav_order: 3
 
 {% include analytics.html %}
 
-# The MeadowLand Guidelines
+# The MeadowLand Guidelines ![birb](../assets/images/Birb.png)
 ## Resource Pack Guidelines
 1. Do not submit packs without transparent backgrounds
 2. Do not submit packs that are the same/identical to another pack
